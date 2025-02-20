@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.0.15">
   <diagram name="Page-1" id="LBrU4tufs1gQngfbtIcZ">
-    <mxGraphModel dx="1153" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="659" dy="375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -77,14 +77,8 @@
         <mxCell id="tVJNZG34SpUqFf31eKnh-10" value="hello mars" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="220" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tVJNZG34SpUqFf31eKnh-11" value="A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="155" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tVJNZG34SpUqFf31eKnh-12" value="B" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="230" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tVJNZG34SpUqFf31eKnh-13" value="C" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="295" width="60" height="30" as="geometry" />
+        <mxCell id="tVJNZG34SpUqFf31eKnh-11" value="redofile A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="155" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tVJNZG34SpUqFf31eKnh-14" value="hello earth" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="654" y="150" width="80" height="40" as="geometry" />
@@ -103,9 +97,6 @@
         </mxCell>
         <mxCell id="tVJNZG34SpUqFf31eKnh-19" value="hello venus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="290" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="tVJNZG34SpUqFf31eKnh-20" value="redofile" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="155" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tVJNZG34SpUqFf31eKnh-23" value="mirror 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="120" width="60" height="30" as="geometry" />
@@ -228,12 +219,6 @@
             <mxPoint x="760" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tVJNZG34SpUqFf31eKnh-60" value="redofile" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="230" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tVJNZG34SpUqFf31eKnh-61" value="redofile" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="294" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="tVJNZG34SpUqFf31eKnh-62" value="Archivelog" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="1000" y="195" width="80" height="100" as="geometry" />
         </mxCell>
@@ -272,6 +257,12 @@
               <mxPoint x="940" y="320" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tVJNZG34SpUqFf31eKnh-66" value="redofile B" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="225" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tVJNZG34SpUqFf31eKnh-68" value="redofile C" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="295" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
