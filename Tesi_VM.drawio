@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.0.15">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.0.16">
   <diagram name="Page-1" id="7TiddoL_tzSkbVtB9UeM">
-    <mxGraphModel>
+    <mxGraphModel dx="1384" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ya5ySboRcTLW9gKdHnck-5" value="Macchina host Windows" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="550" width="350" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Ya5ySboRcTLW9gKdHnck-6" value="Virtual Box" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="500" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ya5ySboRcTLW9gKdHnck-7" value="Oracle Linux 9" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="240" y="320" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Ya5ySboRcTLW9gKdHnck-8" value="RHEL9" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="420" y="320" width="170" height="170" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
